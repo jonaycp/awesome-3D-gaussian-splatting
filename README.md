@@ -1,4 +1,5 @@
-# Awesome 3D Gaussian Splatting Resources RELEASED CODE VERSION
+# Awesome 3D Gaussian Splatting Resources 
+## ONLY RELEASED CODE PROJECTS
 
 This is a curated list of papers and open-source resources focused on 3D Gaussian Splatting.
 The original repository is from [MrNerf](https://github.com/MrNeRF), this is just a different version with just the released tools
