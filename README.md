@@ -2,7 +2,7 @@
 ## ONLY RELEASED CODE PROJECTS
 
 This is a curated list of papers and open-source resources focused on 3D Gaussian Splatting.
-The original repository is from [MrNerf](https://github.com/MrNeRF), this is just a different version with just the released tools
+The original repository is [MrNerf](https://github.com/MrNeRF), this is just a different version with the released code only
 
 ## Seminal Paper introducing 3D Gaussian Splatting:
 ### 3D Gaussian Splatting for Real-Time Radiance Field Rendering
@@ -13,7 +13,6 @@ The original repository is from [MrNerf](https://github.com/MrNeRF), this is jus
 <br>
 
 ## Avatars:
-
 ### 1. GART: Gaussian Articulated Template Models 
 **Authors**: Jiahui Lei, Yufu Wang, Georgios Pavlakos, Lingjie Liu, Kostas Daniilidis 
 <details span>
@@ -329,7 +328,7 @@ The recent Gaussian Splatting achieves high-quality and real-time novel-view syn
 
   [📄 Paper](https://arxiv.org/pdf/2312.00732.pdf) | [💻 Code](https://github.com/lkeab/gaussian-grouping) 
 
-### 5. Segment Any 3D Gaussians
+### 3. Segment Any 3D Gaussians
 **Authors**: Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, Wei Shen, Qi Tian
 
 <details span>
@@ -469,7 +468,7 @@ Novel view synthesis from limited observations remains an important and persiste
 
   [📄 Paper](https://arxiv.org/pdf/2312.00451.pdf) | [🌐 Project Page](https://zehaozhu.github.io/FSGS/) | [💻 Code](https://github.com/VITA-Group/FSGS) 
 
-### 3. pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction 
+### 2. pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction 
 **Authors**: David Charatan, Sizhe Li, Andrea Tagliasacchi, Vincent Sitzmann 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -478,7 +477,7 @@ We introduce pixelSplat, a feed-forward model that learns to reconstruct 3D radi
 
   [📄 Paper](https://arxiv.org/pdf/2312.12337.pdf) | [🌐 Project Page](https://davidcharatan.com/pixelsplat/) | [💻 Code](https://github.com/dcharatan/pixelsplat) 
 
-### 4. Splatter Image: Ultra-Fast Single-View 3D Reconstruction 
+### 3. Splatter Image: Ultra-Fast Single-View 3D Reconstruction 
 **Authors**: Stanislaw Szymanowicz, Christian Rupprecht, Andrea Vedaldi 
 <details span>
 <summary><b>Abstract</b></summary>
